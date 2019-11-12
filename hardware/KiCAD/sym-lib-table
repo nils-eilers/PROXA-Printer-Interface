@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Proxa-Printer-Interface-rescue)(type Legacy)(uri ${KIPRJMOD}/Proxa-Printer-Interface-rescue.lib)(options "")(descr ""))
+)
