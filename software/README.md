@@ -1,8 +1,9 @@
 EPROM Generator for the PROXA Printer Interface
 -----------------------------------------------
 
-Binaries are available for OS X (eprom, 64 bit) and Windows (EPROM.EXE, 32 bit).
-On Linux, just run 'make' to build your binary locally.
+On Windows, use the provided EPROM.EXE to create the binary file
+for the EPROM. You may edit EPROM.CFG to suit your needs,
+especially to make the actual printout match your character set.
+Hopefully, EPROM.CFG is as self-explaining as it should be.
 
-In case you need to patch the configuration file eprom.cfg, have a look
-inside. It should be pretty self-explaining.
+On Linux, just run 'make' to build your binary locally.
